@@ -1,0 +1,42 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "name": "Huy",
+      "categories": {
+        "id": "1",
+        "name": "ăn"
+      }
+    },
+    {
+      "id": "1",
+      "name": "Huy2",
+      "categories": {
+        "id": "2",
+        "name": "uống"
+      }
+    },
+    {
+      "id": "1",
+      "name": "Huy3",
+      "categories": {
+        "id": "3",
+        "name": "tắm"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "ăn"
+    },
+    {
+      "id": "2",
+      "name": "uống"
+    },
+    {
+      "id": "3",
+      "name": "tắm"
+    }
+  ]
+}
